@@ -1,6 +1,6 @@
-package nested_types.examples.examples01;
+package nested_types.examples.example01;
 
-import nested_types.examples.examples01.Enclosing.Nested;
+import nested_types.examples.example01.Enclosing.Nested;
 
 public class TextExample01 {
     public static void main(String[] args) {

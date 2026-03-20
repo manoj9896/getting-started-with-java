@@ -1,4 +1,4 @@
-package nested_types.examples.examples01;
+package nested_types.examples.example01;
 
 import java.time.LocalDate;
 
